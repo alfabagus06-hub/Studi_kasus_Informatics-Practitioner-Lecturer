@@ -1,0 +1,2 @@
+# Tidak ada pustaka eksternal yang diperlukan.
+# Menggunakan modul bawaan Python: multiprocessing dan time.
